@@ -1,12 +1,13 @@
 # revert-windows-11-emojis
-## Step-by-step guide on how to revert Windows 11's fluent emojis back to the Windows 10 emojis.<
+## Step-by-step guide on how to revert Windows 11's fluent emojis back to the Windows 10 emojis.
 
-#### *DISCLAIMER: FOLLOW THIS GUIDE AT YOUR OWN DISCRETION, THIS GUIDE WILL NOT TAKE RESPONSIBILITY FOR ANY POTENTIALLY HARMFUL CONSEQUENCES*
+#### *DISCLAIMER: FOLLOW THIS GUIDE AT YOUR OWN DISCRETION, THIS GUIDE WILL NOT TAKE RESPONSIBILITY FOR ANY POTENTIALLY DAMAGE TO YOUR OPERATING SYSTEM OR USER EXPERIENCE*
 
 ### Windows Registry Editor Warning:
 Warning: Exercise extreme caution when using the Registry Editor. If you edit the registry incorrectly, serious problems might occur that could require a complete reinstall of the operating system and result in data loss. Avoid any edits suggested by unofficial sources.  For added protection, before making edits based on officially published Microsoft documentation, be sure to back up the registry. Then you can restore it if a problem occurs. For more information see [How to back up and restore the registry in Windows](https://support.microsoft.com/en-us/topic/how-to-back-up-and-restore-the-registry-in-windows-855140ad-e318-2a13-2829-d428a2ab0692).
 
-Video guide coming soon.
+------------------------
+Video guide coming soon
 
 ### Part 1 - Reverting Font
 
