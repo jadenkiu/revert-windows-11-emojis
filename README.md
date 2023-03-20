@@ -30,7 +30,9 @@ Right click "seguiemj.ttf" and click "Install"
 Restart your computer.
 
 ### Part 2 - Reverting icons on the Windows Emoji Keyboard:
-![Windows 11 Fluent Emojis on emoji keyboard](/markdown-files/Windows%2011%20fluent%20emojis%20on%20emoji%20keyboard.png) to ![Windows 10 Emojis on emoji keyboard](/markdown-files/Windows%2010%20emojis%20on%20emoji%20keyboard.png)
+![Windows 11 Fluent Emojis on emoji keyboard](/markdown-files/Windows%2011%20fluent%20emojis%20on%20emoji%20keyboard.png)
+should turn into vvv
+ ![Windows 10 Emojis on emoji keyboard](/markdown-files/Windows%2010%20emojis%20on%20emoji%20keyboard.png)
 
 #### Step 1
 Navigate to this file path in File Explorer:
@@ -57,3 +59,6 @@ Copy and paste the seguimj.ttf (**that you downloaded**) into the "amd64_microso
 
 #### Step 4
 Restart computer.
+
+Works Cited:
+“Microsoft.” Microsoft Support, https://support.microsoft.com/en-us/windows/how-to-open-registry-editor-in-windows-10-deab38e6-91d6-e0aa-4b7c-8878d9e07b11. 
