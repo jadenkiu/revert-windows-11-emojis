@@ -31,7 +31,11 @@ Restart your computer.
 
 ### Part 2 - Reverting icons on the Windows Emoji Keyboard:
 ![Windows 11 Fluent Emojis on emoji keyboard](/markdown-files/Windows%2011%20fluent%20emojis%20on%20emoji%20keyboard.png)
+
+
 should turn into vvv
+
+
  ![Windows 10 Emojis on emoji keyboard](/markdown-files/Windows%2010%20emojis%20on%20emoji%20keyboard.png)
 
 #### Step 1
