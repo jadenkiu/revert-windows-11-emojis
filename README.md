@@ -6,6 +6,8 @@
 ### Windows Registry Editor Warning:
 Warning: Exercise extreme caution when using the Registry Editor. If you edit the registry incorrectly, serious problems might occur that could require a complete reinstall of the operating system and result in data loss. Avoid any edits suggested by unofficial sources.  For added protection, before making edits based on officially published Microsoft documentation, be sure to back up the registry. Then you can restore it if a problem occurs. For more information see [How to back up and restore the registry in Windows](https://support.microsoft.com/en-us/topic/how-to-back-up-and-restore-the-registry-in-windows-855140ad-e318-2a13-2829-d428a2ab0692).
 
+Video guide coming soon.
+
 ### Part 1 - Reverting Font
 
 #### Step 1:
@@ -33,7 +35,7 @@ Restart your computer.
 ![Windows 11 Fluent Emojis on emoji keyboard](/markdown-files/Windows%2011%20fluent%20emojis%20on%20emoji%20keyboard.png)
 
 
-should turn into vvv
+should turn into:
 
 
  ![Windows 10 Emojis on emoji keyboard](/markdown-files/Windows%2010%20emojis%20on%20emoji%20keyboard.png)
@@ -63,6 +65,9 @@ Copy and paste the seguimj.ttf (**that you downloaded**) into the "amd64_microso
 
 #### Step 4
 Restart computer.
+
+Guide created by [jadenkiu](https://github.com/jadenkiu).
+Jaden Chung
 
 Works Cited:
 “Microsoft.” Microsoft Support, https://support.microsoft.com/en-us/windows/how-to-open-registry-editor-in-windows-10-deab38e6-91d6-e0aa-4b7c-8878d9e07b11. 
