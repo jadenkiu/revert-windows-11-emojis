@@ -2,6 +2,7 @@
 ## Step-by-step guide on how to revert Windows 11's fluent emojis back to the Windows 10 emojis.
 
 #### *DISCLAIMER: FOLLOW THIS GUIDE AT YOUR OWN DISCRETION, THIS GUIDE WILL NOT TAKE RESPONSIBILITY FOR ANY POTENTIALLY DAMAGE TO YOUR OPERATING SYSTEM OR USER EXPERIENCE*
+#### BACK UP YOUR REGISTRY CONFIGS BEFORE MODIFYING IT
 
 *This font is owned by Microsoft Corporation. No copyright infringement is intended. This is purely for educational purpose.*
 ------------------------
